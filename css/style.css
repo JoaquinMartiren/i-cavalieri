@@ -1,0 +1,30 @@
+html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header {
+  background-color: gray;
+  position: static;
+}
+h1 {
+  color: blue;
+}
+li {
+  margin: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: inline;
+}
+.logo {
+  display: inline;
+  width: 350px;
+}
+.titulo {
+  display: inline;
+}
+.ropa {
+  width: 350px;
+}
+.ropa1 {
+  width: 500px;
+}
